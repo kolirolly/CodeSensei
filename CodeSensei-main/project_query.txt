@@ -1,0 +1,4 @@
+as per the project requirement we have done two seperate models i.e
+1) one that runs locally using ollama setup
+2) other using groq API (meta llama model). inorder to view the other one one simply click below 
+https://github.com/kolirolly/CodeSensei_API
